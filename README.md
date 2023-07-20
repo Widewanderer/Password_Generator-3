@@ -17,11 +17,13 @@ To create a randomized password generator with 8-128 characters. Password criter
 ### Links
 
 **GitHub Repository**
+https://github.com/Widewanderer/Password_Generator-3
 
 **Password Generator Website**
+https://widewanderer.github.io/Password_Generator-3/
 
 ### Screenshots
 
-![Password Generator]()
+![Password Generator](./Assets/PassgenPic.png))
 
 ![Password Generator]()
